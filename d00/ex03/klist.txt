@@ -1,3 +1,0 @@
-Jun 26 13:24:55 2017  Jun 26 23:24:55 2017  krbtgt/42.US.ORG@42.US.ORG
-Jun 26 13:24:57 2017  Jun 26 23:24:55 2017  ldap/ldap-proxy.42.us.org@42.US.ORG
-Jun 26 13:44:55 2017  Jun 26 23:24:55 2017  host/vgs-fn1.42.us.org@42.US.ORG
